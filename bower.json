@@ -1,0 +1,7 @@
+{
+  "name": "makoman portfolio",
+  "dependencies": {
+    "polymer": "~1.1.4",
+    "underscore": "~1.8.3"
+  }
+}
